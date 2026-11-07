@@ -127,4 +127,9 @@ Certbot will verify your domain, apply the SSL certificates, and automatically c
 
 I already have made a 3d printer case for it, you can download it from my repo, or make a new one for yourself.
 
+<img width="1080" height="2400" alt="1000012168" src="https://github.com/user-attachments/assets/6710c776-0033-4553-b7c9-56f44322b622" />
+<img width="1080" height="2400" alt="1000012169" src="https://github.com/user-attachments/assets/e48be265-a987-4dc0-bfe1-452478a30b7b" />
+<img width="1080" height="2400" alt="1000012170" src="https://github.com/user-attachments/assets/6a076310-6991-498c-9272-08c39e6d8640" />
+
+
 
